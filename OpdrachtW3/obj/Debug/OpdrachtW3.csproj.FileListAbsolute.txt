@@ -1,0 +1,14 @@
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\bin\Debug\OpdrachtW3.exe.config
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\bin\Debug\OpdrachtW3.exe
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\bin\Debug\OpdrachtW3.pdb
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\obj\Debug\OpdrachtW3.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\obj\Debug\OpdrachtW3.Properties.Resources.resources
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\obj\Debug\OpdrachtW3.TekstVerwerker.resources
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\obj\Debug\OpdrachtW3.Vervangen.resources
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\obj\Debug\OpdrachtW3.Zoeken.resources
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\obj\Debug\OpdrachtW3.csproj.GenerateResource.Cache
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\obj\Debug\OpdrachtW3.exe
+C:\Users\Dennis\Downloads\W3_WPF\OpdrachtW3\obj\Debug\OpdrachtW3.pdb
+C:\Users\Dennis\Documents\GitHub\TextEditor\OpdrachtW3\bin\Debug\OpdrachtW3.exe.config
+C:\Users\Dennis\Documents\GitHub\TextEditor\OpdrachtW3\obj\Debug\OpdrachtW3.exe
+C:\Users\Dennis\Documents\GitHub\TextEditor\OpdrachtW3\obj\Debug\OpdrachtW3.pdb
